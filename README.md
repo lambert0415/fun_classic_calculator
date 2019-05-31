@@ -5,6 +5,6 @@
 
 3.use "npm start" to start running project
 
-![demo Image 1](https://github.com/lambert0415/fun_classic_calculator/demo1.png)
+![demo Image 1](https://github.com/lambert0415/fun_classic_calculator/blob/master/demo1.png)
 ![demo Image 2](https://github.com/lambert0415/fun_classic_calculator/demo2.png)
 ![demo Image 3](https://github.com/lambert0415/fun_classic_calculator/demo3.png)
