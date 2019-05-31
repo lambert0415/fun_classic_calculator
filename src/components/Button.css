@@ -1,0 +1,30 @@
+.button {
+  height: 3.3em;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: bold;
+  font-size: 1.6em;
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: oblique;
+  background-color: #e0e1e6;
+  color: #494646;
+  flex: 1;
+  outline: 2px solid #f88604de;
+  text-shadow: rgb(153, 149, 149) 3px 3px 5px;
+}
+
+.button:hover {
+  background-color: #f51111ce;
+}
+
+.operator {
+  background: -webkit-repeating-linear-gradient(
+    bottom,
+    rgba(10, 186, 218, 0.938),
+    rgba(56, 74, 235, 0.829)
+  );
+  color: #ffffff;
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: oblique;
+}
